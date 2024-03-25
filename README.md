@@ -1,4 +1,5 @@
-Introduction
+Introduction :
+
 The goal of my project is to analyze the post-pandemic global job market for Data Scientists and compare it to the global job market during the same time period, as represented by global layoff data. 
 When I saw that these datasets were available, my interest was piqued by the possibility of examining the job prospects in my chosen field for myself, without the biases that might be present in analyses done by institutions of higher education or industry think tanks. 
 I hope the data shows that the career I chose is growing (i.e., there are many jobs and salaries are increasing) and stable (relatively insulated from downturns in the wider economy). 
